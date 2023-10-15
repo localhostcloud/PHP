@@ -8,8 +8,16 @@ test it out http://localhost:8000 display default index.php,
 http://localhost:8000/phpinfo.php "shows PHP Version 8.2.11, etc."
 
 * To Stop or Exit PHP Built-in WebServer currently running on Port 8000
-  type Control-C or CTRL-C
-  
+G:\DevTest\PHP>php.exe -S localhost:8000
+[Sun Oct 15 06:10:15 2023] PHP 8.2.11 Development Server (http://localhost:8000) started
+[Sun Oct 15 06:10:25 2023] [::1]:50951 Accepted
+[Sun Oct 15 06:10:25 2023] [::1]:50951 [200]: GET /phpinfo.php
+[Sun Oct 15 06:10:25 2023] [::1]:50951 Closing
+[Sun Oct 15 06:10:25 2023] [::1]:50952 Accepted
+
+type Control-C or CTRL-C and bring back to cmd line (CLI) below 
+G:\DevTest\PHP
+
 << Download run PHP Built-in Web Server >>
 https://windows.php.net/download#php-8.2
 "choose below example for download 
