@@ -31,7 +31,8 @@ extract in H:\DevTest\PHP now has G:\DevTest\PHP\php.exe, php8.dll, php-cgi.exe 
 
 **** Please contact RMDH if you need steps to configure run PHPInfo.php on below Platforms 
 
-<< Linux, Microsoft Windows Server Platform, Virtual Machine Platform >>
+<< Microsoft Windows Server Platform >>
+https://www.microsoft.com/en-us/windows-server/
 
 << Red Hat OpenShift Container Platform >>
 https://www.redhat.com/en/technologies/cloud-computing/openshift/container-platform
@@ -42,7 +43,9 @@ https://aws.amazon.com/
 << Microsoft Azure Cloud Platform >>
 https://azure.microsoft.com/en-us/
 
-===========================================================================
+<< Linux, Virtual Machine Platform >>
+
+===================================================================
 * Author/Coder/Engineer/Programmer/Technical Support: RMDH
 
 
