@@ -28,3 +28,5 @@ Zip [30.24MB]
 sha256: 2f603db80f0e4ffd0330140d12926a822e47f9825fd0adbb55611857aa1b4109
 
 extract in H:\DevTest\PHP now has G:\DevTest\PHP\php.exe, php8.dll, php-cgi.exe etc
+
+<< using PHPinfo.php source code runs on Red Hat OpenShift Container Platform >>
