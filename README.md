@@ -30,3 +30,21 @@ sha256: 2f603db80f0e4ffd0330140d12926a822e47f9825fd0adbb55611857aa1b4109
 extract in H:\DevTest\PHP now has G:\DevTest\PHP\php.exe, php8.dll, php-cgi.exe etc
 
 << using PHPinfo.php source code runs on Red Hat OpenShift Container Platform >>
+https://www.redhat.com/en/technologies/cloud-computing/openshift/container-platform
+
+<< using PHPinfo.php source code runs on AWS Cloud Platform >>
+https://aws.amazon.com/
+
+<< using PHPinfo.php source code runs on Microsoft Azure Cloud Platform >>
+https://azure.microsoft.com/en-us/
+
+<< using PHPinfo.php source code runs on Linux Platform >>
+
+<< using PHPinfo.php source code runs on Microsoft Windows Server Platform >>
+
+<< using PHPinfo.php source code runs on Virtual Machine Platform >>
+
+
+
+
+
