@@ -39,12 +39,12 @@ https://aws.amazon.com/
 https://azure.microsoft.com/en-us/
 
 << using PHPinfo.php source code runs on Linux Platform >>
-
+* Please contact RMDH
 << using PHPinfo.php source code runs on Microsoft Windows Server Platform >>
-
+* Please contact RMDH
 << using PHPinfo.php source code runs on Virtual Machine Platform >>
-
-
-
+* Please contact RMDH
+  ===========================================================================
+* Author/Coder/Engineer/Programmer/Technical Support: RMDH
 
 
